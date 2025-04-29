@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0DBA76-154D-4142-960A-1CD200A11ECA}|SoManyPermutations\\SoManyPermutations.csproj|\\\\store\\studenthomes\\2023\\23oc0183\\documents\\thesepcsaresosketchy2(secb)\\consoleapp1\\somanypermutations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E70D79-0B63-461D-B509-5E88D5687916}|Weird Case\\Weird Case.csproj|\\\\store\\studenthomes\\2023\\23oc0183\\documents\\thesepcsaresosketchy2(secb)\\consoleapp1\\weird case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD996C-0A64-4ACC-96A1-86D7211D904D}|Perimeters\\Perimeters.csproj|\\\\store\\studenthomes\\2023\\23oc0183\\documents\\thesepcsaresosketchy2(secb)\\consoleapp1\\perimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB12C90-A9D4-42F8-9231-18776230A977}|NarcNumber\\NarcNumber.csproj|\\\\store\\studenthomes\\2023\\23oc0183\\documents\\thesepcsaresosketchy2(secb)\\consoleapp1\\narcnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F668FA-9660-4D3B-9776-799C35E241D2}|2024SB\\2024SB.csproj|\\\\store\\studenthomes\\2023\\23oc0183\\documents\\thesepcsaresosketchy2(secb)\\consoleapp1\\2024sb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E0802A-8524-4156-8661-01BDE56F4051}|ConsoleApp1\\2022SB.csproj|\\\\store\\studenthomes\\2023\\23oc0183\\documents\\thesepcsaresosketchy2(secb)\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F668FA-9660-4D3B-9776-799C35E241D2}|2024SB\\2024SB.csproj|\\\\store\\studenthomes\\2023\\23oc0183\\documents\\thesepcsaresosketchy2(secb)\\consoleapp1\\2024sb\\2024sb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E0802A-8524-4156-8661-01BDE56F4051}|ConsoleApp1\\2022SB.csproj|\\\\store\\studenthomes\\2023\\23oc0183\\documents\\thesepcsaresosketchy2(secb)\\consoleapp1\\consoleapp1\\2022sb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\SoManyPermutations\\Program.cs",
+              "RelativeDocumentMoniker": "SoManyPermutations\\Program.cs",
+              "ToolTip": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\SoManyPermutations\\Program.cs",
+              "RelativeToolTip": "SoManyPermutations\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA6wDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:46:56.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\Weird Case\\Program.cs",
+              "RelativeDocumentMoniker": "Weird Case\\Program.cs",
+              "ToolTip": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\Weird Case\\Program.cs",
+              "RelativeToolTip": "Weird Case\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:29:38.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\Perimeters\\Program.cs",
+              "RelativeDocumentMoniker": "Perimeters\\Program.cs",
+              "ToolTip": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\Perimeters\\Program.cs",
+              "RelativeToolTip": "Perimeters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:56:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\NarcNumber\\Program.cs",
+              "RelativeDocumentMoniker": "NarcNumber\\Program.cs",
+              "ToolTip": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\NarcNumber\\Program.cs",
+              "RelativeToolTip": "NarcNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:40:56.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "2024SB.csproj",
+              "DocumentMoniker": "\\\\Store\\StudentHomes\\2023\\23oc0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\2024SB\\2024SB.csproj",
+              "RelativeDocumentMoniker": "2024SB\\2024SB.csproj",
+              "ToolTip": "\\\\Store\\StudentHomes\\2023\\23oc0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\2024SB\\2024SB.csproj",
+              "RelativeToolTip": "2024SB\\2024SB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T10:58:02.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2022SB.csproj",
+              "DocumentMoniker": "\\\\Store\\StudentHomes\\2023\\23oc0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\ConsoleApp1\\2022SB.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\2022SB.csproj",
+              "ToolTip": "\\\\Store\\StudentHomes\\2023\\23oc0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\ConsoleApp1\\2022SB.csproj",
+              "RelativeToolTip": "ConsoleApp1\\2022SB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T10:58:01.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\2024SB\\Program.cs",
+              "RelativeDocumentMoniker": "2024SB\\Program.cs",
+              "ToolTip": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\2024SB\\Program.cs",
+              "RelativeToolTip": "2024SB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:57:55.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "\\\\Store\\StudentHomes\\2023\\23OC0183\\Documents\\ThesePCsAreSoSketchy2(SecB)\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:20:10.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

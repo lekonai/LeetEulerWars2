@@ -1,0 +1,14 @@
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\bin\Debug\net8.0\SoManyPermutations.exe
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\bin\Debug\net8.0\SoManyPermutations.deps.json
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\bin\Debug\net8.0\SoManyPermutations.runtimeconfig.json
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\bin\Debug\net8.0\SoManyPermutations.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\bin\Debug\net8.0\SoManyPermutations.pdb
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.GeneratedMSBuildEditorConfig.editorconfig
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.AssemblyInfoInputs.cache
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.AssemblyInfo.cs
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.csproj.CoreCompileInputs.cache
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\refint\SoManyPermutations.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.pdb
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.genruntimeconfig.cache
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\ref\SoManyPermutations.dll

@@ -1,0 +1,14 @@
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\2022SB.exe
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\2022SB.deps.json
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\2022SB.runtimeconfig.json
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\2022SB.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\2022SB.pdb
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\2022SB.GeneratedMSBuildEditorConfig.editorconfig
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\2022SB.AssemblyInfoInputs.cache
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\2022SB.AssemblyInfo.cs
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\2022SB.csproj.CoreCompileInputs.cache
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\2022SB.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\2022SB.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\2022SB.pdb
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\2022SB.genruntimeconfig.cache
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\2022SB.dll

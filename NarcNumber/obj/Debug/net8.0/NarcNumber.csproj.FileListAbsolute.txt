@@ -1,0 +1,14 @@
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\bin\Debug\net8.0\NarcNumber.exe
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\bin\Debug\net8.0\NarcNumber.deps.json
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\bin\Debug\net8.0\NarcNumber.runtimeconfig.json
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\bin\Debug\net8.0\NarcNumber.dll
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\bin\Debug\net8.0\NarcNumber.pdb
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\obj\Debug\net8.0\NarcNumber.GeneratedMSBuildEditorConfig.editorconfig
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\obj\Debug\net8.0\NarcNumber.AssemblyInfoInputs.cache
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\obj\Debug\net8.0\NarcNumber.AssemblyInfo.cs
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\obj\Debug\net8.0\NarcNumber.csproj.CoreCompileInputs.cache
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\obj\Debug\net8.0\NarcNumber.dll
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\obj\Debug\net8.0\refint\NarcNumber.dll
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\obj\Debug\net8.0\NarcNumber.pdb
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\obj\Debug\net8.0\NarcNumber.genruntimeconfig.cache
+\\Store\StudentHomes\2023\23OC0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NarcNumber\obj\Debug\net8.0\ref\NarcNumber.dll

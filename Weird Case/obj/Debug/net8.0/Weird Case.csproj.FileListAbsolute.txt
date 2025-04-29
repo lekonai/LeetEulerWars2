@@ -1,0 +1,14 @@
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\obj\Debug\net8.0\Weird Case.GeneratedMSBuildEditorConfig.editorconfig
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\obj\Debug\net8.0\Weird Case.AssemblyInfoInputs.cache
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\obj\Debug\net8.0\Weird Case.AssemblyInfo.cs
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\obj\Debug\net8.0\Weird Case.csproj.CoreCompileInputs.cache
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\bin\Debug\net8.0\Weird Case.exe
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\bin\Debug\net8.0\Weird Case.deps.json
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\bin\Debug\net8.0\Weird Case.runtimeconfig.json
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\bin\Debug\net8.0\Weird Case.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\bin\Debug\net8.0\Weird Case.pdb
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\obj\Debug\net8.0\Weird Case.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\obj\Debug\net8.0\refint\Weird Case.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\obj\Debug\net8.0\Weird Case.pdb
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\obj\Debug\net8.0\Weird Case.genruntimeconfig.cache
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\Weird Case\obj\Debug\net8.0\ref\Weird Case.dll
