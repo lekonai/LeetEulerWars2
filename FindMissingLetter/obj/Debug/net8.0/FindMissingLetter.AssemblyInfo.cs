@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindMissingLetter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f70cfcdaad2df6ba85bad8e210c04df60aedc7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindMissingLetter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindMissingLetter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

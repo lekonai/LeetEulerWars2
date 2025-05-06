@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMissingLetter", "FindMi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weird Case", "Weird Case\Weird Case.csproj", "{A8E70D79-0B63-461D-B509-5E88D5687916}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoManyPermutations", "SoManyPermutations\SoManyPermutations.csproj", "{8F0DBA76-154D-4142-960A-1CD200A11ECA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoManyPermutations", "SoManyPermutations\SoManyPermutations.csproj", "{8F0DBA76-154D-4142-960A-1CD200A11ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotVerySecure", "NotVerySecure\NotVerySecure.csproj", "{7998D710-075C-47E4-AE55-E063AFEC67D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{8F0DBA76-154D-4142-960A-1CD200A11ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F0DBA76-154D-4142-960A-1CD200A11ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F0DBA76-154D-4142-960A-1CD200A11ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7998D710-075C-47E4-AE55-E063AFEC67D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7998D710-075C-47E4-AE55-E063AFEC67D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7998D710-075C-47E4-AE55-E063AFEC67D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7998D710-075C-47E4-AE55-E063AFEC67D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

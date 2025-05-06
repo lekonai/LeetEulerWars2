@@ -1,0 +1,15 @@
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\bin\Debug\net8.0\NotVerySecure.exe
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\bin\Debug\net8.0\NotVerySecure.deps.json
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\bin\Debug\net8.0\NotVerySecure.runtimeconfig.json
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\bin\Debug\net8.0\NotVerySecure.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\bin\Debug\net8.0\NotVerySecure.pdb
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\obj\Debug\net8.0\NotVerySecure.GeneratedMSBuildEditorConfig.editorconfig
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\obj\Debug\net8.0\NotVerySecure.AssemblyInfoInputs.cache
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\obj\Debug\net8.0\NotVerySecure.AssemblyInfo.cs
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\obj\Debug\net8.0\NotVerySecure.csproj.CoreCompileInputs.cache
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\obj\Debug\net8.0\NotVerySecure.sourcelink.json
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\obj\Debug\net8.0\NotVerySecure.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\obj\Debug\net8.0\refint\NotVerySecure.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\obj\Debug\net8.0\NotVerySecure.pdb
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\obj\Debug\net8.0\NotVerySecure.genruntimeconfig.cache
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\NotVerySecure\obj\Debug\net8.0\ref\NotVerySecure.dll

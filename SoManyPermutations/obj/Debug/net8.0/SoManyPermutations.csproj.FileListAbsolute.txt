@@ -12,3 +12,4 @@
 \\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.pdb
 \\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.genruntimeconfig.cache
 \\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\ref\SoManyPermutations.dll
+\\Store\StudentHomes\2023\23oc0183\Documents\ThesePCsAreSoSketchy2(SecB)\ConsoleApp1\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.sourcelink.json
